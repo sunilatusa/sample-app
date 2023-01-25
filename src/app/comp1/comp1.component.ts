@@ -6,7 +6,6 @@ import { SampleService } from '../services/sample.service';
   selector: 'app-comp1',
   templateUrl: './comp1.component.html',
   styleUrls: ['./comp1.component.css'],
-  providers: [],
 })
 export class Comp1Component implements OnInit{
 
